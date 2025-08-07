@@ -15,7 +15,7 @@ The emoji sets that were adapted under these terms were [Neocat](https://volpeon
 Special Thanks to:
 All my friends and followers who have so kindly been supporting and helping me throughout this process
 
-If you have any questions or concerns please feel free to contact me on fedi @aperture@snug.moe
+If you have any questions or concerns please feel free to contact me on fedi, I'm aperture on snug.moe
 
 <img width="64" height="64" alt="neoraccoon_dumpster" src="https://github.com/user-attachments/assets/b91ca5df-259c-4676-8f4e-621cdaac9e7a" /> <img width="64" height="64" alt="neoraccoon_smol" src="https://github.com/user-attachments/assets/e70b4e10-8c26-41d4-902c-8fe13fd9be89" />
 <img width="64" height="64" alt="neoraccoon_floof_angel" src="https://github.com/user-attachments/assets/3b479ee6-4a5f-498b-b920-195cba8d9dc6" /> <img width="64" height="64" alt="neoraccoon_flag_trans" src="https://github.com/user-attachments/assets/31d4ea75-ac3a-4962-a40c-cfc1a727b0ed" />
